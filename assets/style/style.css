@@ -342,6 +342,9 @@ body {
   font-size: var(--fs-pr4);
   line-height: var(--lh-pr4);
 }
+.header.container {
+  max-width: 148rem;
+}
 
 .app--info {
   display: flex;
