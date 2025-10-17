@@ -54,6 +54,7 @@ body {
 .logo {
   justify-self: center;
   max-width: 11.8rem;
+  margin-top: 10rem;
 }
 
 /* btn */
